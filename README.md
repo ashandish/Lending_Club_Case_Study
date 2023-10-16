@@ -16,3 +16,7 @@ Repository contains following major files:
 2) PDF with analysis results
 3) This ReadMe.md file
 4) DataSet after cleaning and manipulation
+
+## Contribution
+Ashish Kumar Sharma
+Swamy Satish Patil
